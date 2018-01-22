@@ -1,0 +1,15 @@
+---
+layout: post
+title: はじめまして
+date: 2018-01-22
+description: 自己紹介 # Add post description (optional)
+img: post-6.jpg # Add image post (optional)
+tags: [自己紹介]
+author: りり # Add name author (optional)
+published: true
+---
+はじめまして。りりと申します。
+
+## 趣味
+- 筋トレ
+  * ジム行きたい
