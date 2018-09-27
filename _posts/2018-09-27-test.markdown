@@ -1,0 +1,11 @@
+---
+layout: post
+title: テスト
+date: 2018-09-27
+description: テスト # Add post description (optional)
+img: post-1.jpg # Add image post (optional)
+tags: [テスト]
+author: ゆゆ # Add name author (optional)
+published: true
+---
+テスト内容
